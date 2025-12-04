@@ -14,11 +14,18 @@ I specialize in **ASP.NET**, **Angular**, and modern frontend/backend technologi
 
 ---
 
+## 🌐 Portfolio  
+Check out my personal portfolio:  
+👉 **https://ahmed-hosny810.github.io/Portfolio/**
+
+---
+
 ## 📫 Contact Me
-- LinkedIn: [www.linkedin.com/in/ahmed-m-hosny](https://www.linkedin.com/in/ahmed-m-hosny)  
-- Email: ahmed.hosney8100@gmail.com  
+- **LinkedIn:** [www.linkedin.com/in/ahmed-m-hosny](https://www.linkedin.com/in/ahmed-m-hosny)  
+- **Email:** ahmed.hosney8100@gmail.com  
 
 ---
 
 🌟 I’m always learning, building, and exploring new technologies. Thanks for visiting my profile!
+
 
